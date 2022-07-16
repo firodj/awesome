@@ -25,8 +25,11 @@ just another awsome
 5. [famigo](https://github.com/theinternetftw/famigo)
 
    NES emulator using [shiny](https://pkg.go.dev/golang.org/x/exp/shiny).
-   
-   
+
+6. [LaiNES](https://github.sre.pub/AndreaOrru/LaiNES)
+
+   Cycle-accurate NES emulator in ~1000 lines of code in C++.
+
 # game boy emulator
 
 1. [goboy](https://github.com/Humpheh/goboy)
@@ -46,7 +49,19 @@ just another awsome
 
    Nintendo Game Boy emulator written in Go to be used in workshops about emulator programming.
    Gameboy emulator using opengl.
- 
+
+# gba emulator
+
+1. [magia](https://github.com/pokemium/magia)
+
+   magia is a toy GBA emulator written in golang.
+   
+# nds emulator
+
+1. [ndsemu](https://github.com/rasky/ndsemu)
+
+   Nintendo DS Emulator written in Go
+
 # other emulator
 
 1. [chip8](https://github.com/bomer/chip8)
