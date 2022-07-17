@@ -51,6 +51,7 @@ Just another awsome
 5. [https://github.com/alexander-hanel/unicorn-engine-notes](Unicorn Engine Notes).
 6. [debug/pe](https://pkg.go.dev/debug/pe). Package pe implements access to PE (Microsoft Windows Portable Executable) files.
 7. [pefile-go](https://github.com/willscott/pefile-go). Python's pefile porting to Go after many forks.
+8. [Locale-Emulator-Core MyLibrary](https://github.com/xupefei/Locale-Emulator-Core/blob/master/LocaleEmulator/ml.cpp).
 
 # Web Backend
 
