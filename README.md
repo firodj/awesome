@@ -1,4 +1,4 @@
-# awesome
+# AweSome
 
 Just another awsome
 
@@ -49,6 +49,8 @@ Just another awsome
    Other [dll-injector topics](https://github.com/topics/dll-injector)
 4. [usercorn](https://github.com/lunixbochs/usercorn). dynamic binary analysis via platform emulation in Go.
 5. [https://github.com/alexander-hanel/unicorn-engine-notes](Unicorn Engine Notes).
+6. [debug/pe](https://pkg.go.dev/debug/pe). Package pe implements access to PE (Microsoft Windows Portable Executable) files.
+7. [pefile-go](https://github.com/willscott/pefile-go). Python's pefile porting to Go after many forks.
 
 # Web Backend
 
