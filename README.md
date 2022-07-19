@@ -40,6 +40,14 @@ Just another awsome
 3. [glfw](https://github.com/go-gl/glfw). Go bindings for GLFW 3.
 4. [go-sdl2](https://github.com/veandco/go-sdl2). SDL2 binding for Go.
 
+# DirectX Wrapper
+
+1. [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2). Glide/DirectX implementation on D3D11/12. No source code. 
+   [About](http://dege.freeweb.hu/dgVoodoo2).
+2. [dxgl](https://github.com/dxgldotorg/dxgl).
+3. [Wrappers](https://emulation.gametechwiki.com/index.php/Wrappers) page.
+4. [Proton](https://github.com/ValveSoftware/Proton). Compatibility tool for Steam Play based on Wine and additional components.
+
 # Hacking
 
 1. [pe](https://github.com/saferwall/pe). A ⚡ lightweight Go package to parse, analyze and extract metadata from Portable Executable (PE) binaries.
@@ -52,6 +60,7 @@ Just another awsome
 6. [debug/pe](https://pkg.go.dev/debug/pe). Package pe implements access to PE (Microsoft Windows Portable Executable) files.
 7. [pefile-go](https://github.com/willscott/pefile-go). Python's pefile porting to Go after many forks.
 8. [Locale-Emulator-Core MyLibrary](https://github.com/xupefei/Locale-Emulator-Core/blob/master/LocaleEmulator/ml.cpp).
+9. [speakeasy](https://github.com/mandiant/speakeasy). Windows kernel and user mode emulation in Python with Unicorn.
 
 # Web Backend
 
