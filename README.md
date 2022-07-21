@@ -47,6 +47,10 @@ Just another awsome
 2. [dxgl](https://github.com/dxgldotorg/dxgl).
 3. [Wrappers](https://emulation.gametechwiki.com/index.php/Wrappers) page.
 4. [Proton](https://github.com/ValveSoftware/Proton). Compatibility tool for Steam Play based on Wine and additional components.
+5. [dxsdk](https://github.com/apitrace/dxsdk). Collection of DirectX SDK headers to facilitate the build of Apitrace.
+6. [A3D-Live-](https://github.com/RazorbladeByte/A3D-Live-). A3D to DirectSound3D Wrapper. [A3D 3.0 API Reference Guide](http://www.worknd.ru/a3d30ref.pdf)
+7. [dxwrapper](https://github.com/jarikomppa/dxwrapper). DirectX 1-7 wrapper project for making old games run on new hardware.
+8. [openglide2](https://github.com/RazorbladeByte/openglide2). 
 
 # Hacking
 
