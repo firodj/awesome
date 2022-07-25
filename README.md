@@ -50,7 +50,9 @@ Just another awsome
 5. [dxsdk](https://github.com/apitrace/dxsdk). Collection of DirectX SDK headers to facilitate the build of Apitrace.
 6. [A3D-Live-](https://github.com/RazorbladeByte/A3D-Live-). A3D to DirectSound3D Wrapper. [A3D 3.0 API Reference Guide](http://www.worknd.ru/a3d30ref.pdf)
 7. [dxwrapper](https://github.com/jarikomppa/dxwrapper). DirectX 1-7 wrapper project for making old games run on new hardware.
-8. [openglide2](https://github.com/RazorbladeByte/openglide2). 
+8. [openglide2](https://github.com/RazorbladeByte/openglide2).
+9. [cnc-ddraw](https://github.com/CnCNet/cnc-ddraw). GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API
+   for classic games for better compatibility with Windows XP, Vista, 7, 8, 10, 11 and Wine.
 
 # Hacking
 
