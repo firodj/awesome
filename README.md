@@ -40,7 +40,7 @@ Just another awsome
 3. [glfw](https://github.com/go-gl/glfw). Go bindings for GLFW 3.
 4. [go-sdl2](https://github.com/veandco/go-sdl2). SDL2 binding for Go.
 
-# DirectX Wrapper
+# DirectX Wrapper & Hook
 
 1. [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2). Glide/DirectX implementation on D3D11/12. No source code. 
    [About](http://dege.freeweb.hu/dgVoodoo2).
@@ -53,6 +53,7 @@ Just another awsome
 8. [openglide2](https://github.com/RazorbladeByte/openglide2).
 9. [cnc-ddraw](https://github.com/CnCNet/cnc-ddraw). GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API
    for classic games for better compatibility with Windows XP, Vista, 7, 8, 10, 11 and Wine.
+10. [DDrawCompat](https://github.com/narzoul/DDrawCompat). DirectDraw compatibility and performance enhancements for Windows Vista, 7, 8 and 10.
 
 # Hacking
 
