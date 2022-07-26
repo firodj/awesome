@@ -72,7 +72,24 @@ Just another awsome
 10. [SoftWire](https://github.com/evilsocket/SoftWire) (2009). SoftWire is a class library written in object-oriented C++ for compiling assembly code.
     It can be used in projects to generate x86 machine code at run-time as an alternative to self-modifying code.
     Scripting languages might also benefit by using SoftWire as a JIT-compiler back-end. …
-11. [reko](https://github.com/uxmal/reko). Reko is a binary decompiler.
+    
+# Decompiler
+
+1. [reko](https://github.com/uxmal/reko). Reko is a binary decompiler using C#.
+2. [snowman](https://github.com/yegord/snowman). Snowman decompiler using C++.
+3. [plasma](https://github.com/plasma-disassembler/plasma). Plasma is an interactive disassembler for x86/ARM/MIPS using Python.
+    It can generates indented pseudo-code with colored syntax.
+4. [retdec](https://github.com/avast/retdec). RetDec is a retargetable machine-code decompiler based on LLVM.
+5. [dynStruct](https://github.com/ampotos/dynStruct). Reverse engineering tool for automatic structure recovering and memory use analysis
+   based on DynamoRIO and Capstone.
+
+# RE Games
+1. [reverse-engineering-dungeon-siege](https://github.com/glampert/reverse-engineering-dungeon-siege). An attempt to reverse engineer game assets of 
+   GPG's Dungeon Siege.
+   
+# C/C++
+
+1. [cppcheck](https://github.com/danmar/cppcheck). static analysis of C/C++ code.
 
 # Web Backend
 
