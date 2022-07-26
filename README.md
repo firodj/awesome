@@ -69,7 +69,9 @@ Just another awsome
 7. [pefile-go](https://github.com/willscott/pefile-go). Python's pefile porting to Go after many forks.
 8. [Locale-Emulator-Core MyLibrary](https://github.com/xupefei/Locale-Emulator-Core/blob/master/LocaleEmulator/ml.cpp).
 9. [speakeasy](https://github.com/mandiant/speakeasy). Windows kernel and user mode emulation in Python with Unicorn.
-
+10. [SoftWire](https://github.com/evilsocket/SoftWire) (2009). SoftWire is a class library written in object-oriented C++ for compiling assembly code.
+    It can be used in projects to generate x86 machine code at run-time as an alternative to self-modifying code.
+    Scripting languages might also benefit by using SoftWire as a JIT-compiler back-end. …
 # Web Backend
 
 1. [pocketbase](https://github.com/pocketbase/pocketbase). Open Source realtime backend in 1 file.
