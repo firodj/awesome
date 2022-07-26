@@ -82,6 +82,8 @@ Just another awsome
 4. [retdec](https://github.com/avast/retdec). RetDec is a retargetable machine-code decompiler based on LLVM.
 5. [dynStruct](https://github.com/ampotos/dynStruct). Reverse engineering tool for automatic structure recovering and memory use analysis
    based on DynamoRIO and Capstone.
+6. [rgat](https://github.com/ncatlin/rgat) + [drgat](https://github.com/ncatlin/drgat). An instruction trace visualisation tool for dynamic program
+   analysis + The DynamoRIO client for rgat.
 
 # RE Games
 1. [reverse-engineering-dungeon-siege](https://github.com/glampert/reverse-engineering-dungeon-siege). An attempt to reverse engineer game assets of 
