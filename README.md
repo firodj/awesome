@@ -72,7 +72,8 @@ Just another awsome
 10. [SoftWire](https://github.com/evilsocket/SoftWire) (2009). SoftWire is a class library written in object-oriented C++ for compiling assembly code.
     It can be used in projects to generate x86 machine code at run-time as an alternative to self-modifying code.
     Scripting languages might also benefit by using SoftWire as a JIT-compiler back-end. …
-    
+11. [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking). A guide for hacking unity games, plus tools.
+
 # Decompiler
 
 1. [reko](https://github.com/uxmal/reko). Reko is a binary decompiler using C#.
