@@ -54,6 +54,9 @@ Just another awsome
 9. [cnc-ddraw](https://github.com/CnCNet/cnc-ddraw). GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API
    for classic games for better compatibility with Windows XP, Vista, 7, 8, 10, 11 and Wine.
 10. [DDrawCompat](https://github.com/narzoul/DDrawCompat). DirectDraw compatibility and performance enhancements for Windows Vista, 7, 8 and 10.
+11. [simpledllloader](https://github.com/aap/simpledllloader). A simple DLL loader for games. Derived from the Ultimate ASI loader.
+12. [DxWnd](https://github.com/DxWnd/DxWnd.reloaded). Windows hooker - intercepts system calls to make fullscreen programs running in a window,
+    to support a better compatibility, to enhance video modes and to stretch timing. It is tipically very useful to run old windows games.
 
 # Hacking
 
