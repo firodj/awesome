@@ -89,7 +89,20 @@ Just another awsome
 # RE Games
 1. [reverse-engineering-dungeon-siege](https://github.com/glampert/reverse-engineering-dungeon-siege). An attempt to reverse engineer game assets of 
    GPG's Dungeon Siege.
-   
+2. Collections of [RetailGameSourceCode](https://github.com/RetailGameSourceCode), some forks:
+   1. [PSXDOOM-RE](https://github.com/Erick194/PSXDOOM-RE)
+   2. [Spongebob_SuperSponge](https://github.com/hazelcode/SBSPSS)
+   3. [Postal1](https://github.com/Oniryck/POSTAL-1-Open-Source)
+   4. [StarWars_JediAcademy](https://github.com/grayj/Jedi-Academy)
+   5. [StarWars_JediOutcast](https://github.com/grayj/Jedi-Outcast)
+   6. [JurassicParkTrespasser](https://github.com/OpenTrespasser/JurassicParkTrespasser)
+   7. [UltimateMortalKombat3](https://github.com/Ell/umk3)
+   8. [TonyHawksUnderground](https://github.com/thug1src/thug)
+3. [OpenLara](https://github.com/XProger/OpenLara). Classic Tomb Raider open-source engine.
+4. Collections on **retroVersing**:
+    * [DecompiledRetailConsoleGames](https://github.com/RetroReversing/retroReversing/blob/master/pages/SourceCode/DecompiledRetailConsoleGames.md)
+    * [RetailConsoleSourceCode](https://github.com/RetroReversing/retroReversing/blob/master/pages/SourceCode/RetailConsoleSourceCode.md)
+
 # C/C++
 
 1. [cppcheck](https://github.com/danmar/cppcheck). static analysis of C/C++ code.
