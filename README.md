@@ -7,7 +7,7 @@ Just another awsome
 1. [nes](https://github.com/fogleman/nes). NES emulator written in Go using opengl.
 2. [Fergulator](https://github.com/scottferg/Fergulator). NES emulator, written in Go.
 3. [nintengo](https://github.com/nwidger/nintengo). An NES emulator written in Go using Azul3d (opengl).
-4. [toynes](https://github.com/kaishuu0123/toynes). NES emulator & NSF Player written in Go.
+4. [chibines](https://github.com/kaishuu0123/chibines), was [toynes](https://github.com/kaishuu0123/toynes). NES emulator & NSF Player written in Go.
    [ToyNES (NES Emulator & NSF Player. written in Go)](https://www.reddit.com/r/EmuDev/comments/vmc9p2/toynes_nes_emulator_nsf_player_written_in_go/)
 5. [famigo](https://github.com/theinternetftw/famigo). NES emulator using [shiny](https://pkg.go.dev/golang.org/x/exp/shiny).
 6. [LaiNES](https://github.sre.pub/AndreaOrru/LaiNES). Cycle-accurate NES emulator in ~1000 lines of code in C++.
