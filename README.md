@@ -90,6 +90,7 @@ Just another awsome
    analysis + The DynamoRIO client for rgat.
 
 # RE Games
+
 1. [reverse-engineering-dungeon-siege](https://github.com/glampert/reverse-engineering-dungeon-siege). An attempt to reverse engineer game assets of 
    GPG's Dungeon Siege.
 2. Collections of [RetailGameSourceCode](https://github.com/RetailGameSourceCode), some forks:
@@ -113,6 +114,32 @@ Just another awsome
 # Web Backend
 
 1. [pocketbase](https://github.com/pocketbase/pocketbase). Open Source realtime backend in 1 file.
+
+# Visual Programming
+
+1. [blockly](https://github.com/google/blockly). The web-based visual programming editor. 
+   [Tips for Creating a Block Language with Blockly](https://developers.google.com/static/blockly/publications/papers/TipsForCreatingABlockLanguage.pdf)
+
+   ![](https://developers.google.com/blockly/images/sample.png)
+
+2. [scratch](https://github.com/LLK/scratch-blocks). Scratch Blocks is a library for building creative computing interfaces.
+
+   ![](https://cloud.githubusercontent.com/assets/747641/15255731/dad4d028-190b-11e6-9c16-8df7445adc96.png)
+   
+3. [Snap](https://github.com/jmoenig/Snap). A visual programming language inspired by Scratch.
+4. [EduBlocks](https://github.com/AllAboutCode/EduBlocks). Drag and drop coding tool for creating Python programs
+
+   ![alt tag](https://github.com/AllAboutCode/EduBlocks/raw/master/misc/newappimage.png)
+
+5. [Bingo](https://bingo.futuresight.org/source/).
+
+   ![](https://bingo.futuresight.org/img/screenshot.png)
+
+6. [WaterBear](https://github.com/waterbearlang/waterbear/). Visual block syntax for programming languages.
+7. [eBlock](https://github.com/distintiva/eBlock). Scratch application to program micro:bit,
+   arduino and other devices based on mBlock 3.4.5 and improved with a lot of new features.
+   
+   ![eblock](https://github.com/distintiva/eBlock/raw/master/eblock.png)
 
 # Other Awesome
 
