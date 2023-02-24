@@ -39,6 +39,12 @@ Just another awsome
 2. [imgui-go](https://github.com/inkyblackness/imgui-go). Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui).
 3. [glfw](https://github.com/go-gl/glfw). Go bindings for GLFW 3.
 4. [go-sdl2](https://github.com/veandco/go-sdl2). SDL2 binding for Go.
+5. [pixel](https://github.com/faiface/pixel). A hand-crafted 2D game library in Go.
+
+# MIDI
+
+1. [go-meltysynth](https://github.com/sinshu/go-meltysynth). A SoundFont MIDI synthesizer written in pure Golang,
+   ported from [MeltySynth for C#](https://github.com/sinshu/meltysynth).
 
 # DirectX Wrapper & Hook
 
