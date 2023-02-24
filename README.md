@@ -37,9 +37,10 @@ Just another awsome
 
 1. [ebiten](https://github.com/hajimehoshi/ebiten). Ebitengine - A dead simple 2D game library for Go.
 2. [imgui-go](https://github.com/inkyblackness/imgui-go). Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui).
-3. [glfw](https://github.com/go-gl/glfw). Go bindings for GLFW 3.
-4. [go-sdl2](https://github.com/veandco/go-sdl2). SDL2 binding for Go.
-5. [pixel](https://github.com/faiface/pixel). A hand-crafted 2D game library in Go.
+3. [cimgui-go](https://github.com/AllenDang/cimgui-go). Auto generated Go wrapper for Dear ImGui via cimgui.
+4. [glfw](https://github.com/go-gl/glfw). Go bindings for GLFW 3.
+5. [go-sdl2](https://github.com/veandco/go-sdl2). SDL2 binding for Go.
+6. [pixel](https://github.com/faiface/pixel). A hand-crafted 2D game library in Go.
 
 # MIDI
 
@@ -112,6 +113,10 @@ Just another awsome
 4. Collections on **retroVersing**:
     * [DecompiledRetailConsoleGames](https://github.com/RetroReversing/retroReversing/blob/master/pages/SourceCode/DecompiledRetailConsoleGames.md)
     * [RetailConsoleSourceCode](https://github.com/RetroReversing/retroReversing/blob/master/pages/SourceCode/RetailConsoleSourceCode.md)
+5. [OpenTTD](https://www.openttd.org/). Open Trasport Tycoon Deluxe.
+6. [OpenBOR](https://github.com/DCurrent/openbor). OpenBOR is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more!
+   Inherited from Beats of Rage.
+7. [re3](https://github.com/td512/re3). Fully reversed source code for GTA III, Vice City.
 
 # C/C++
 
