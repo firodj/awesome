@@ -42,6 +42,10 @@ Just another awsome
 5. [go-sdl2](https://github.com/veandco/go-sdl2). SDL2 binding for Go.
 6. [pixel](https://github.com/faiface/pixel). A hand-crafted 2D game library in Go.
 
+# Game Engine
+
+1. [axmol](https://github.com/axmolengine/axmol). Axmol Engine – A Multi-platform Engine for Desktop, XBOX (UWP) and Mobile games. (A fork of Cocos2d-x-4.0)
+
 # MIDI
 
 1. [go-meltysynth](https://github.com/sinshu/go-meltysynth). A SoundFont MIDI synthesizer written in pure Golang,
