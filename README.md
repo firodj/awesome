@@ -127,9 +127,10 @@ Just another awsome
 
 1. [cppcheck](https://github.com/danmar/cppcheck). static analysis of C/C++ code.
 
-# Web Backend
+# Web Backend / Starter Kit
 
 1. [pocketbase](https://github.com/pocketbase/pocketbase). Open Source realtime backend in 1 file.
+2. [boxyhq-saas](https://github.com/boxyhq/saas-starter-kit). 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 
 # Visual Programming
 
@@ -160,3 +161,4 @@ Just another awsome
 # Other Awesome
 
 1. [awesome-go](https://github.com/avelino/awesome-go). A curated list of awesome Go frameworks, libraries and software.
+2. [9-open-source-repos-that-will-make-your-saas-gold](https://dev.to/nathan_tarbert/9-open-source-repos-that-will-make-your-saas-gold-54h7).
