@@ -131,6 +131,8 @@ Just another awsome
 
 1. [pocketbase](https://github.com/pocketbase/pocketbase). Open Source realtime backend in 1 file.
 2. [boxyhq-saas](https://github.com/boxyhq/saas-starter-kit). 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
+3. [graphjin](https://github.com/dosco/graphjin). GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks.
+4. [nhost](https://github.com/nhost/nhost). The Open Source Firebase Alternative with GraphQL.
 
 # Visual Programming
 
