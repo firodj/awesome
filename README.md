@@ -160,6 +160,10 @@ Just another awsome
 
    ![eblock](./img/eblock.png)
 
+# Go
+
+1. [images4](https://github.com/vitali-fedulov/images4). Image similarity in Golang. Version 4 (*LATEST*).
+
 # Other Awesome
 
 1. [awesome-go](https://github.com/avelino/awesome-go). A curated list of awesome Go frameworks, libraries and software.
