@@ -16,15 +16,15 @@ Just another awsome
 
 1. [goboy](https://github.com/Humpheh/goboy). Multi-platform Nintendo Game Boy Color emulator written in Go.
 2. [termboy-go](https://github.com/dobyrch/termboy-go). Gameboy emulator which runs graphically in the terminal.
-3. [dmgo](https://github.com/theinternetftw/dmgo). A gameboy emulator in go. Gameboy emulator 
+3. [dmgo](https://github.com/theinternetftw/dmgo). A gameboy emulator in go. Gameboy emulator
    uses [shiny](https://pkg.go.dev/golang.org/x/exp/shiny).
-4. [demo-emulator](https://github.com/drhelius/demo-emulator). Nintendo Game Boy emulator written in Go to be used 
+4. [demo-emulator](https://github.com/drhelius/demo-emulator). Nintendo Game Boy emulator written in Go to be used
    in workshops about emulator programming. Gameboy emulator using opengl.
 
 # GBA Emulator
 
 1. [magia](https://github.com/pokemium/magia). magia is a toy GBA emulator written in golang.
-   
+
 # NDS emulator
 
 1. [ndsemu](https://github.com/rasky/ndsemu).  Nintendo DS Emulator written in Go.
@@ -53,7 +53,7 @@ Just another awsome
 
 # DirectX Wrapper & Hook
 
-1. [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2). Glide/DirectX implementation on D3D11/12. No source code. 
+1. [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2). Glide/DirectX implementation on D3D11/12. No source code.
    [About](http://dege.freeweb.hu/dgVoodoo2).
 2. [dxgl](https://github.com/dxgldotorg/dxgl).
 3. [Wrappers](https://emulation.gametechwiki.com/index.php/Wrappers) page.
@@ -103,7 +103,7 @@ Just another awsome
 
 # RE Games
 
-1. [reverse-engineering-dungeon-siege](https://github.com/glampert/reverse-engineering-dungeon-siege). An attempt to reverse engineer game assets of 
+1. [reverse-engineering-dungeon-siege](https://github.com/glampert/reverse-engineering-dungeon-siege). An attempt to reverse engineer game assets of
    GPG's Dungeon Siege.
 2. Collections of [RetailGameSourceCode](https://github.com/RetailGameSourceCode), some forks:
    1. [PSXDOOM-RE](https://github.com/Erick194/PSXDOOM-RE)
@@ -136,15 +136,15 @@ Just another awsome
 
 # Visual Programming
 
-1. [blockly](https://github.com/google/blockly). The web-based visual programming editor. 
+1. [blockly](https://github.com/google/blockly). The web-based visual programming editor.
    [Tips for Creating a Block Language with Blockly](https://developers.google.com/static/blockly/publications/papers/TipsForCreatingABlockLanguage.pdf)
 
-   ![](https://developers.google.com/blockly/images/sample.png)
+   ![](./img/blocky.png)
 
 2. [scratch](https://github.com/LLK/scratch-blocks). Scratch Blocks is a library for building creative computing interfaces.
 
-   ![](https://cloud.githubusercontent.com/assets/747641/15255731/dad4d028-190b-11e6-9c16-8df7445adc96.png)
-   
+   ![](./img/scratch.png)
+
 3. [Snap](https://github.com/jmoenig/Snap). A visual programming language inspired by Scratch.
 4. [EduBlocks](https://github.com/AllAboutCode/EduBlocks). Drag and drop coding tool for creating Python programs
 
@@ -152,15 +152,16 @@ Just another awsome
 
 5. [Bingo](https://bingo.futuresight.org/source/).
 
-   ![](https://bingo.futuresight.org/img/screenshot.png)
+   ![](./img/bingo.png)
 
 6. [WaterBear](https://github.com/waterbearlang/waterbear/). Visual block syntax for programming languages.
 7. [eBlock](https://github.com/distintiva/eBlock). Scratch application to program micro:bit,
    arduino and other devices based on mBlock 3.4.5 and improved with a lot of new features.
-   
-   ![eblock](https://github.com/distintiva/eBlock/raw/master/eblock.png)
+
+   ![eblock](./img/eblock.png)
 
 # Other Awesome
 
 1. [awesome-go](https://github.com/avelino/awesome-go). A curated list of awesome Go frameworks, libraries and software.
 2. [9-open-source-repos-that-will-make-your-saas-gold](https://dev.to/nathan_tarbert/9-open-source-repos-that-will-make-your-saas-gold-54h7).
+3. [awesome](https://github.com/sindresorhus/awesome). 😎 Awesome lists about all kinds of interesting topics.
