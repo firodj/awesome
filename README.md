@@ -169,3 +169,5 @@ Just another awsome
 1. [awesome-go](https://github.com/avelino/awesome-go). A curated list of awesome Go frameworks, libraries and software.
 2. [9-open-source-repos-that-will-make-your-saas-gold](https://dev.to/nathan_tarbert/9-open-source-repos-that-will-make-your-saas-gold-54h7).
 3. [awesome](https://github.com/sindresorhus/awesome). 😎 Awesome lists about all kinds of interesting topics.
+4. [awesome-cpp](https://github.com/uhub/awesome-cpp). A curated list of awesome C++ frameworks, libraries and software.
+
