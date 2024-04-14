@@ -62,7 +62,7 @@ Just another awsome
 6. [dxsdk](https://github.com/apitrace/dxsdk). Collection of DirectX SDK headers to facilitate the build of Apitrace.
 7. [A3D-Live-](https://github.com/RazorbladeByte/A3D-Live-). A3D to DirectSound3D Wrapper. [A3D 3.0 API Reference Guide](http://www.worknd.ru/a3d30ref.pdf)
 8. [dxwrapper](https://github.com/jarikomppa/dxwrapper). DirectX 1-7 wrapper project for making old games run on new hardware.
-9. [openglide2](https://github.com/RazorbladeByte/openglide2).
+9. [openglide2](https://github.com/RazorbladeByte/openglide2). a glide2-to-OpenGL wrapper based on OpenGLide.
 10. [cnc-ddraw](https://github.com/CnCNet/cnc-ddraw). GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API
    for classic games for better compatibility with Windows XP, Vista, 7, 8, 10, 11 and Wine.
 11. [DDrawCompat](https://github.com/narzoul/DDrawCompat). DirectDraw compatibility and performance enhancements for Windows Vista, 7, 8 and 10.
@@ -123,6 +123,7 @@ Just another awsome
 6. [OpenBOR](https://github.com/DCurrent/openbor). OpenBOR is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more!
    Inherited from Beats of Rage.
 7. [re3](https://github.com/td512/re3). Fully reversed source code for GTA III, Vice City.
+8. [OpenSWE1R](https://github.com/OpenSWE1R). Emulator (Unicorn based) for Star Wars Episode I Racer, released in 1999 by LucasArt.
 
 # C/C++
 
