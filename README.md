@@ -53,20 +53,21 @@ Just another awsome
 
 # DirectX Wrapper & Hook
 
-1. [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2). Glide/DirectX implementation on D3D11/12. No source code.
+1. [dxvk](https://github.com/doitsujin/dxvk). Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (and Win10)
+2. [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2). Glide/DirectX implementation on D3D11/12. No source code.
    [About](http://dege.freeweb.hu/dgVoodoo2).
-2. [dxgl](https://github.com/dxgldotorg/dxgl).
-3. [Wrappers](https://emulation.gametechwiki.com/index.php/Wrappers) page.
-4. [Proton](https://github.com/ValveSoftware/Proton). Compatibility tool for Steam Play based on Wine and additional components.
-5. [dxsdk](https://github.com/apitrace/dxsdk). Collection of DirectX SDK headers to facilitate the build of Apitrace.
-6. [A3D-Live-](https://github.com/RazorbladeByte/A3D-Live-). A3D to DirectSound3D Wrapper. [A3D 3.0 API Reference Guide](http://www.worknd.ru/a3d30ref.pdf)
-7. [dxwrapper](https://github.com/jarikomppa/dxwrapper). DirectX 1-7 wrapper project for making old games run on new hardware.
-8. [openglide2](https://github.com/RazorbladeByte/openglide2).
-9. [cnc-ddraw](https://github.com/CnCNet/cnc-ddraw). GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API
+3. [dxgl](https://github.com/dxgldotorg/dxgl). DXGL DirectX-to-OpenGL Wrapper source code.
+4. [Wrappers](https://emulation.gametechwiki.com/index.php/Wrappers) page.
+5. [Proton](https://github.com/ValveSoftware/Proton). Compatibility tool for Steam Play based on Wine and additional components.
+6. [dxsdk](https://github.com/apitrace/dxsdk). Collection of DirectX SDK headers to facilitate the build of Apitrace.
+7. [A3D-Live-](https://github.com/RazorbladeByte/A3D-Live-). A3D to DirectSound3D Wrapper. [A3D 3.0 API Reference Guide](http://www.worknd.ru/a3d30ref.pdf)
+8. [dxwrapper](https://github.com/jarikomppa/dxwrapper). DirectX 1-7 wrapper project for making old games run on new hardware.
+9. [openglide2](https://github.com/RazorbladeByte/openglide2).
+10. [cnc-ddraw](https://github.com/CnCNet/cnc-ddraw). GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API
    for classic games for better compatibility with Windows XP, Vista, 7, 8, 10, 11 and Wine.
-10. [DDrawCompat](https://github.com/narzoul/DDrawCompat). DirectDraw compatibility and performance enhancements for Windows Vista, 7, 8 and 10.
-11. [simpledllloader](https://github.com/aap/simpledllloader). A simple DLL loader for games. Derived from the Ultimate ASI loader.
-12. [DxWnd](https://github.com/DxWnd/DxWnd.reloaded). Windows hooker - intercepts system calls to make fullscreen programs running in a window,
+11. [DDrawCompat](https://github.com/narzoul/DDrawCompat). DirectDraw compatibility and performance enhancements for Windows Vista, 7, 8 and 10.
+12. [simpledllloader](https://github.com/aap/simpledllloader). A simple DLL loader for games. Derived from the Ultimate ASI loader.
+13. [DxWnd](https://github.com/DxWnd/DxWnd.reloaded). Windows hooker - intercepts system calls to make fullscreen programs running in a window,
     to support a better compatibility, to enhance video modes and to stretch timing. It is tipically very useful to run old windows games.
 
 # Hacking
@@ -129,7 +130,7 @@ Just another awsome
 
 # Web Backend / Starter Kit
 
-1. [pocketbase](https://github.com/pocketbase/pocketbase). Open Source realtime backend in 1 file.
+1. [pocketbase](https://github.com/pocketbase/pocketbase). Open Source realtime backend in 1 file (Go).
 2. [boxyhq-saas](https://github.com/boxyhq/saas-starter-kit). 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 3. [graphjin](https://github.com/dosco/graphjin). GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks.
 4. [nhost](https://github.com/nhost/nhost). The Open Source Firebase Alternative with GraphQL.
@@ -163,6 +164,7 @@ Just another awsome
 # Go
 
 1. [images4](https://github.com/vitali-fedulov/images4). Image similarity in Golang. Version 4 (*LATEST*).
+2. [goas](https://github.com/mikunalpha/goas). Generate OpenAPI (3.0.0) Specification from comments.
 
 # Other Awesome
 
