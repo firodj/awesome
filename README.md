@@ -167,6 +167,14 @@ Just another awsome
 1. [images4](https://github.com/vitali-fedulov/images4). Image similarity in Golang. Version 4 (*LATEST*).
 2. [goas](https://github.com/mikunalpha/goas). Generate OpenAPI (3.0.0) Specification from comments.
 
+# Minecraft
+
+1. [Minecraft Python OpenGL](https://github.com/StanislavPetrovV/Minecraft). Voxel Engine (like Minecraft) in Python and OpenGL.
+
+   Youtube: https://youtu.be/Ab8TOSFfNp4?si=wp0GA73ut0JZRNG4
+   Step-by-step: https://drive.google.com/file/d/1zb-UgWbZJw9HhAnhIIxcuJKBGf2RNTTj/view
+   
+
 # Other Awesome
 
 1. [awesome-go](https://github.com/avelino/awesome-go). A curated list of awesome Go frameworks, libraries and software.
