@@ -167,11 +167,25 @@ Just another awsome
 1. [images4](https://github.com/vitali-fedulov/images4). Image similarity in Golang. Version 4 (*LATEST*).
 2. [goas](https://github.com/mikunalpha/goas). Generate OpenAPI (3.0.0) Specification from comments.
 
+# Minecraft
+
+1. [Minecraft Python OpenGL](https://github.com/StanislavPetrovV/Minecraft). Voxel Engine (like Minecraft) in Python and OpenGL.
+
+   ![](./img/stanislavreetrovv-minecraft.jpg)
+   
+   * Youtube: https://youtu.be/Ab8TOSFfNp4?si=wp0GA73ut0JZRNG4
+   * Step-by-step: https://drive.google.com/file/d/1zb-UgWbZJw9HhAnhIIxcuJKBGf2RNTTj/view
+  
+2. [Minetest](https://github.com/minetest/minetest). Minetest is an open source voxel game-creation platform with easy modding and game creation.
+
+   ![](./img/minetest-flyingship.jpg)
+   
 # Other Awesome
 
 1. [awesome-go](https://github.com/avelino/awesome-go). A curated list of awesome Go frameworks, libraries and software.
 2. [9-open-source-repos-that-will-make-your-saas-gold](https://dev.to/nathan_tarbert/9-open-source-repos-that-will-make-your-saas-gold-54h7).
-3. [awesome](https://github.com/sindresorhus/awesome). 😎 Awesome lists about all kinds of interesting topics.
+3. [awesome](https://github.com/sindresorhus/awesome). 😎 **Awesome** lists about all kinds of interesting topics.
 4. [awesome-cpp](https://github.com/fffaraz/awesome-cpp). A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 5. [awesome-cpp](https://github.com/uhub/awesome-cpp). 🤘 A curated list of awesome C++ frameworks, libraries and software.
+6. [awesome-opensource-voxel](https://github.com/DrSensor/awesome-opensource-voxel). 📦 A curated list of awesome opensource voxel tools, libraries, games, and other cool stuffs.
 
