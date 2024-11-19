@@ -50,6 +50,7 @@ Just another awsome
 
 1. [go-meltysynth](https://github.com/sinshu/go-meltysynth). A SoundFont MIDI synthesizer written in pure Golang,
    ported from [MeltySynth for C#](https://github.com/sinshu/meltysynth).
+2. [SpessaSynth](https://github.com/spessasus/SpessaSynth). MIDI SoundFont/DLS synthesizer library written in JavaScript.
 
 # DirectX Wrapper & Hook
 
@@ -128,6 +129,11 @@ Just another awsome
 # C/C++
 
 1. [cppcheck](https://github.com/danmar/cppcheck). static analysis of C/C++ code.
+
+# Drawing
+
+1. [xyflow](https://github.com/xyflow/xyflow). React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+2. [excalidraw](https://github.com/excalidraw/excalidraw). Virtual whiteboard for sketching hand-drawn like diagrams.
 
 # Web Backend / Starter Kit
 
