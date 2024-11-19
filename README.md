@@ -148,19 +148,22 @@ Just another awsome
    ![](./img/scratch.png)
 
 3. [Snap](https://github.com/jmoenig/Snap). A visual programming language inspired by Scratch.
-4. [EduBlocks](https://github.com/AllAboutCode/EduBlocks). Drag and drop coding tool for creating Python programs
+4. [EduBlocks](https://github.com/anwarbashir/EduBlocks). Drag and drop coding tool for creating Python programs
 
-   ![alt tag](https://github.com/AllAboutCode/EduBlocks/raw/master/misc/newappimage.png)
+   ![alt tag](./img/new-edublocks-app.png)
 
-5. [Bingo](https://bingo.futuresight.org/source/).
+   Note: previously [here](https://github.com/AllAboutCode/EduBlocks)
+
+6. [Bingo](https://bingo.futuresight.org/source/).
 
    ![](./img/bingo.png)
 
-6. [WaterBear](https://github.com/waterbearlang/waterbear/). Visual block syntax for programming languages.
-7. [eBlock](https://github.com/distintiva/eBlock). Scratch application to program micro:bit,
+7. [WaterBear](https://github.com/waterbearlang/waterbear/). Visual block syntax for programming languages.
+8. [eBlock](https://github.com/distintiva/eBlock). Scratch application to program micro:bit,
    arduino and other devices based on mBlock 3.4.5 and improved with a lot of new features.
 
    ![eblock](./img/eblock.png)
+
 
 # Builder
 
