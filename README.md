@@ -125,6 +125,15 @@ Just another awsome
    Inherited from Beats of Rage.
 7. [re3](https://github.com/td512/re3). Fully reversed source code for GTA III, Vice City.
 8. [OpenSWE1R](https://github.com/OpenSWE1R). Emulator (Unicorn based) for Star Wars Episode I Racer, released in 1999 by LucasArt.
+9. [A List of Open Source Games](https://github.com/bobeff/open-source-games), and others:
+    * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)
+    * [Games on GitHub](https://github.com/leereilly/games)
+    * [Libre Game Wiki](https://libregamewiki.org)
+    * [List of (interesting) FOSS game engine replacement projects](https://forum.openmw.org/viewtopic.php?p=57882)
+    * [List of Open Source Games](https://trilarion.github.io/opensourcegames)
+    * [Open Source Game Clones](https://osgameclones.com)
+    * [Wikipedia list open-source video games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
+ 
 
 # C/C++
 
