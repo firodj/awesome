@@ -54,7 +54,7 @@ Just another awsome
 
 # DirectX Wrapper & Hook
 
-1. [dxvk](https://github.com/doitsujin/dxvk). Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (and Win10)
+1. [dxvk](https://github.com/doitsujin/dxvk). Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (and Win10). For Vulkan 1.2 driver spec stick to dxvk v1.
 2. [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2). Glide/DirectX implementation on D3D11/12. No source code.
    [About](http://dege.freeweb.hu/dgVoodoo2).
 3. [dxgl](https://github.com/dxgldotorg/dxgl). DXGL DirectX-to-OpenGL Wrapper source code.
@@ -70,6 +70,8 @@ Just another awsome
 12. [simpledllloader](https://github.com/aap/simpledllloader). A simple DLL loader for games. Derived from the Ultimate ASI loader.
 13. [DxWnd](https://github.com/DxWnd/DxWnd.reloaded). Windows hooker - intercepts system calls to make fullscreen programs running in a window,
     to support a better compatibility, to enhance video modes and to stretch timing. It is tipically very useful to run old windows games.
+14. [Minhook](https://github.com/TsudaKageyu/minhook). The Minimalistic x86/x64 API Hooking Library for Windows.
+15. [Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook). An universal Dear ImGui Hook for Directx12, 11, 10, 9 and Vulkan.
 
 # Hacking
 
@@ -90,7 +92,7 @@ Just another awsome
     Scripting languages might also benefit by using SoftWire as a JIT-compiler back-end. …
 11. [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking). A guide for hacking unity games, plus tools.
 12. [game-hacking](https://github.com/dsasmblr/game-hacking). Tutorials, tools, and more as related to reverse engineering video games.
-13. [Sogen](https://github.com/momo5502/sogen). Windows User Space Emulator (syscall level).
+13. [Sogen](https://github.com/momo5502/sogen). 🪅 Windows User Space Emulator (syscall level).
 
 # Decompiler
 
