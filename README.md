@@ -136,6 +136,8 @@ Just another awsome
     * [List of Open Source Games](https://trilarion.github.io/opensourcegames)
     * [Open Source Game Clones](https://osgameclones.com)
     * [Wikipedia list open-source video games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
+10. [nfsu2-re](https://github.com/yugecin/nfsu2-re). Reverse engineering project about need for speed underground 2 as hobby.
+11. [OpenLRR](https://github.com/trigger-segfault/OpenLRR). An open source re-implementation of LEGO Rock Raiders 🪨⛏ (D3DRM).
  
 
 # C/C++
